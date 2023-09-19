@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .demo {
+            background-image: linear-gradient(135deg, #fdd819, #e80505);
+        }
+    </style>
+</head>
+<body>
+<button id="btn">点我创建一个输入框</button>
+<script>
+    const btn = document.getElementById('btn')
+    btn.onclick = () => {
+        const input = document.createElement('input')
+        input.value = 99
+        input.onclick = () => {
+            alert(1)
+        }
+        input.className = 'demo'
+        document.body.appendChild(input)
+        input.focus()
+        input.parentElement.style.backgroundImage = 'linear-gradient(135deg,#f54ea2,#ff7676)'
+    }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test</title>
+    <script src="../js/vue.js"></script>
+</head>
+<body>
+<div id="root">
+    <form action="" @submit.prevent="demo">
+        账号:<input v-model.trim="userInfo.username" type="text"><br><br>
+        密码:<input v-model.trim="userInfo.password" type="password"><br><br>
+        性别:
+        <input v-model.trim="userInfo.sex" type="radio" value="male">男
+        <input v-model.trim="userInfo.sex" type="radio" value="famale">女
+        <br><br>
+        爱好:
+        摸鱼<input v-model="userInfo.hobby" type="checkbox" value="摸鱼">
+        睡觉<input v-model="userInfo.hobby" type="checkbox" value="睡觉">
+        花钱<input v-model="userInfo.hobby" type="checkbox" value="花钱">
+        dpeter<input v-model="userInfo.hobby" type="checkbox" value="dpeter">
+        <br><br>
+        其他信息：
+        <br>
+        <textarea id="" v-model.lazy="userInfo.other" cols="30" name="" rows="3"></textarea>
+        <br><br>
+        <button>提交</button>
+    </form>
+</div>
+
+</body>
+<script>
+    const vm = new Vue({
+        el: '#root',
+        data: {
+            userInfo: {
+                username: '',
+                password: '',
+                sex: 'male',
+                hobby: [],
+                other: ''
+
+
+            }
+
+        },
+        methods: {
+            demo() {
+                alert('提交成功!!')
+                console.log(JSON.stringify(this.userInfo))
+            }
+        }
+    })
+</script>
+</html>

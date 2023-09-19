@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../js/vue.js"></script>
+</head>
+<body>
+<!--
+
+-->
+<div id="root">
+    <h2>人员列表：</h2>
+    <button @click="updateMei">点击更改-Dpiter-信息</button>
+    <ul>
+        <li v-for="p in persons" :key="p.id">
+            {{ p.name }}--*--{{ p.age }}--*--{{ p.sex }}
+        </li>
+    </ul>
+</div>
+</body>
+<script>
+    const vm = new Vue({
+        el: '#root',
+        data: {
+            persons: [
+                {id: '001', name: 'jagger', age: '22', sex: '男'},
+                {id: '002', name: 'xiaohong', age: '21', sex: '男'},
+                {id: '003', name: 'xiaocai', age: '19', sex: '男'},
+                {id: '004', name: 'jiacheng', age: '19', sex: '女'},
+                {id: '005', name: 'zhilei', age: '20', sex: '女'},
+                {id: '006', name: 'xiaomin', age: '21', sex: '女'}
+            ]
+        },
+        methods: {
+            updateMei() {
+                // this.persons[0].name = '李晓杰'//奏效
+                // this.persons[0].age = '21'//奏效
+                // this.persons[0].sex = 'men'//奏效
+                // this.persons[0] = {id: '001', name: 'jaggerr', age: '21', sex: '女'}//不太行
+                this.persons.splice(0, 1, {id: '001', name: 'Dpiter', age: '21', sex: '女'})
+            }
+        }
+    })
+</script>
+</html>

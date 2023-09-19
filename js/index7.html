@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <style>
+div{
+  width: 200px;
+  height: 200px;
+  background-color: aquamarine;
+}
+  </style>
+</head>
+<body>
+<div id="D">
+  <script !src="">
+    let D = document.getElementById('D');
+    // D.addEventListener("click",function (){
+    //   let that = this;//因为计时器属于window的方法，所以this指向window，但是window没有style这个属性，所以会报错
+    //所以用that来保存之前this的指向。
+    //   setTimeout(function (){
+    //     that.style.background = 'pink';
+    //   },2000)
+    // })
+
+    //箭头函数
+    D.addEventListener("click",function (){
+      setTimeout( () =>{
+        this.style.background = 'pink';
+      },2000)
+    })
+  </script>
+</div>
+</body>
+</html>

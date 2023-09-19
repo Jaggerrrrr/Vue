@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="888e64a7-f30b-4732-a56c-2552e463e1f3" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/cli/01_src_分析脚手架/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/01_src_分析脚手架/components/School.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/01_src_分析脚手架/components/Student.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/01_src_分析脚手架/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/02_src_ref属性/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/02_src_ref属性/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/02_src_ref属性/components/School.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/02_src_ref属性/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/03_src_props配置/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/03_src_props配置/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/03_src_props配置/components/Student.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/03_src_props配置/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/04_src_mixin混合/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/04_src_mixin混合/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/04_src_mixin混合/components/School.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/04_src_mixin混合/components/Student.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/04_src_mixin混合/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/04_src_mixin混合/mixin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/05_src_插件/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/05_src_插件/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/05_src_插件/components/School.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/05_src_插件/components/Student.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/05_src_插件/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/05_src_插件/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/06_src_scoped样式/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/06_src_scoped样式/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/06_src_scoped样式/components/School.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/06_src_scoped样式/components/Student.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/06_src_scoped样式/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/07_src_TodoList案例/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/07_src_TodoList案例/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/07_src_TodoList案例/components/Item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/07_src_TodoList案例/components/List.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/07_src_TodoList案例/components/MyFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/07_src_TodoList案例/components/MyHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/07_src_TodoList案例/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/08_浏览器本地存储/localStorage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/08_浏览器本地存储/sessionStorage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/09_TodoList_本地存储/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/09_TodoList_本地存储/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/09_TodoList_本地存储/components/Item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/09_TodoList_本地存储/components/List.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/09_TodoList_本地存储/components/MyFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/09_TodoList_本地存储/components/MyHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/09_TodoList_本地存储/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/10_src_组件自定义事件/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/10_src_组件自定义事件/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/10_src_组件自定义事件/components/School.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/10_src_组件自定义事件/components/Student.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/10_src_组件自定义事件/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/11_src_TodoList_自定义事件/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/11_src_TodoList_自定义事件/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/11_src_TodoList_自定义事件/components/Item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/11_src_TodoList_自定义事件/components/List.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/11_src_TodoList_自定义事件/components/MyFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/11_src_TodoList_自定义事件/components/MyHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/11_src_TodoList_自定义事件/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/12_src_全局事件总线/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/12_src_全局事件总线/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/12_src_全局事件总线/components/School.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/12_src_全局事件总线/components/Student.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/12_src_全局事件总线/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/13_src_TodoList_事件总线/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/13_src_TodoList_事件总线/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/13_src_TodoList_事件总线/components/Item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/13_src_TodoList_事件总线/components/List.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/13_src_TodoList_事件总线/components/MyFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/13_src_TodoList_事件总线/components/MyHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/13_src_TodoList_事件总线/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/14_src_消息订阅与发布/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/14_src_消息订阅与发布/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/14_src_消息订阅与发布/components/School.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/14_src_消息订阅与发布/components/Student.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/14_src_消息订阅与发布/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/15_src_TodoList_pubsub/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/15_src_TodoList_pubsub/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/15_src_TodoList_pubsub/components/Item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/15_src_TodoList_pubsub/components/List.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/15_src_TodoList_pubsub/components/MyFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/15_src_TodoList_pubsub/components/MyHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/15_src_TodoList_pubsub/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/16_src_TodoList_nextTick/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/16_src_TodoList_nextTick/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/16_src_TodoList_nextTick/components/Item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/16_src_TodoList_nextTick/components/List.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/16_src_TodoList_nextTick/components/MyFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/16_src_TodoList_nextTick/components/MyHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/16_src_TodoList_nextTick/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/17_src_过渡与动画/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/17_src_过渡与动画/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/17_src_过渡与动画/components/Test.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/17_src_过渡与动画/components/Test2.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/17_src_过渡与动画/components/Test3.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/17_src_过渡与动画/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/18_src_TodoList_动画/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/18_src_TodoList_动画/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/18_src_TodoList_动画/components/Item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/18_src_TodoList_动画/components/List.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/18_src_TodoList_动画/components/MyFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/18_src_TodoList_动画/components/MyHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/18_src_TodoList_动画/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/19_src_配置代理服务器/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/19_src_配置代理服务器/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/20_src_github搜索案例/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/20_src_github搜索案例/components/List.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/20_src_github搜索案例/components/Search.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/20_src_github搜索案例/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/21_src_github搜索案例_vue-resource/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/21_src_github搜索案例_vue-resource/components/List.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/21_src_github搜索案例_vue-resource/components/Search.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/21_src_github搜索案例_vue-resource/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/22_插槽/1_src_默认插槽/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/22_插槽/1_src_默认插槽/src/components/CategorY.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/22_插槽/1_src_默认插槽/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/22_插槽/2_src_具名插槽/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/22_插槽/2_src_具名插槽/components/Category.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/22_插槽/2_src_具名插槽/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/22_插槽/3_src_作用域插槽/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/22_插槽/3_src_作用域插槽/components/Category.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/22_插槽/3_src_作用域插槽/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/23_src_求和案例_纯vue版/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/23_src_求和案例_纯vue版/components/CounT.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/23_src_求和案例_纯vue版/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/24_src_求和案例_纯vuex版/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/24_src_求和案例_纯vuex版/components/CounT.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/24_src_求和案例_纯vuex版/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/24_src_求和案例_纯vuex版/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/25_src_求和案例_getters/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/25_src_求和案例_getters/components/CounT.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/25_src_求和案例_getters/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/25_src_求和案例_getters/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/26_src_求和案例_mapState与mapGetters/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/26_src_求和案例_mapState与mapGetters/components/CounT.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/26_src_求和案例_mapState与mapGetters/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/26_src_求和案例_mapState与mapGetters/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/27_src_求和案例_mapMutations与mapActions/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/27_src_求和案例_mapMutations与mapActions/components/CounT.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/27_src_求和案例_mapMutations与mapActions/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/27_src_求和案例_mapMutations与mapActions/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/28_src_求和案例_多组件共享数据/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/28_src_求和案例_多组件共享数据/components/CounT.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/28_src_求和案例_多组件共享数据/components/PersoN.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/28_src_求和案例_多组件共享数据/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/28_src_求和案例_多组件共享数据/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/29_src_vuex模块化/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/29_src_vuex模块化/components/CounT.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/29_src_vuex模块化/components/PersoN.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/29_src_vuex模块化/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/29_src_vuex模块化/store/count.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/29_src_vuex模块化/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/29_src_vuex模块化/store/perosn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/30_src_路由的基本使用/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/30_src_路由的基本使用/components/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/30_src_路由的基本使用/components/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/30_src_路由的基本使用/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/30_src_路由的基本使用/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/31_src_多级路由/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/31_src_多级路由/components/Banner.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/31_src_多级路由/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/31_src_多级路由/pages/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/31_src_多级路由/pages/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/31_src_多级路由/pages/Message.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/31_src_多级路由/pages/News.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/31_src_多级路由/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/32_src_路由的query参数/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/32_src_路由的query参数/components/Banner.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/32_src_路由的query参数/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/32_src_路由的query参数/pages/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/32_src_路由的query参数/pages/Detail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/32_src_路由的query参数/pages/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/32_src_路由的query参数/pages/Message.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/32_src_路由的query参数/pages/News.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/32_src_路由的query参数/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/33_src_命名路由/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/33_src_命名路由/components/Banner.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/33_src_命名路由/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/33_src_命名路由/pages/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/33_src_命名路由/pages/Detail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/33_src_命名路由/pages/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/33_src_命名路由/pages/Message.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/33_src_命名路由/pages/News.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/33_src_命名路由/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/34_src_路由的params参数/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/34_src_路由的params参数/components/Banner.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/34_src_路由的params参数/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/34_src_路由的params参数/pages/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/34_src_路由的params参数/pages/Detail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/34_src_路由的params参数/pages/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/34_src_路由的params参数/pages/Message.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/34_src_路由的params参数/pages/News.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/34_src_路由的params参数/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/35_src_路由的props配置/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/35_src_路由的props配置/components/Banner.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/35_src_路由的props配置/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/35_src_路由的props配置/pages/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/35_src_路由的props配置/pages/Detail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/35_src_路由的props配置/pages/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/35_src_路由的props配置/pages/Message.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/35_src_路由的props配置/pages/News.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/35_src_路由的props配置/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/36_src_router-link的replace属性/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/36_src_router-link的replace属性/components/Banner.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/36_src_router-link的replace属性/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/36_src_router-link的replace属性/pages/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/36_src_router-link的replace属性/pages/Detail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/36_src_router-link的replace属性/pages/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/36_src_router-link的replace属性/pages/Message.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/36_src_router-link的replace属性/pages/News.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/36_src_router-link的replace属性/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/37_src_编程式路由导航/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/37_src_编程式路由导航/components/Banner.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/37_src_编程式路由导航/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/37_src_编程式路由导航/pages/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/37_src_编程式路由导航/pages/Detail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/37_src_编程式路由导航/pages/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/37_src_编程式路由导航/pages/Message.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/37_src_编程式路由导航/pages/News.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/37_src_编程式路由导航/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/38_src_缓存路由组件/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/38_src_缓存路由组件/components/Banner.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/38_src_缓存路由组件/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/38_src_缓存路由组件/pages/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/38_src_缓存路由组件/pages/Detail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/38_src_缓存路由组件/pages/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/38_src_缓存路由组件/pages/Message.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/38_src_缓存路由组件/pages/News.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/38_src_缓存路由组件/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/39_src_两个新的生命周期钩子/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/39_src_两个新的生命周期钩子/components/Banner.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/39_src_两个新的生命周期钩子/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/39_src_两个新的生命周期钩子/pages/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/39_src_两个新的生命周期钩子/pages/Detail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/39_src_两个新的生命周期钩子/pages/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/39_src_两个新的生命周期钩子/pages/Message.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/39_src_两个新的生命周期钩子/pages/News.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/39_src_两个新的生命周期钩子/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/40_src_全局路由守卫/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/40_src_全局路由守卫/components/Banner.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/40_src_全局路由守卫/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/40_src_全局路由守卫/pages/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/40_src_全局路由守卫/pages/Detail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/40_src_全局路由守卫/pages/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/40_src_全局路由守卫/pages/Message.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/40_src_全局路由守卫/pages/News.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/40_src_全局路由守卫/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/41_src_独享路由守卫/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/41_src_独享路由守卫/components/Banner.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/41_src_独享路由守卫/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/41_src_独享路由守卫/pages/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/41_src_独享路由守卫/pages/Detail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/41_src_独享路由守卫/pages/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/41_src_独享路由守卫/pages/Message.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/41_src_独享路由守卫/pages/News.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/41_src_独享路由守卫/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/42_src_组件内路由守卫/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/42_src_组件内路由守卫/components/Banner.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/42_src_组件内路由守卫/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/42_src_组件内路由守卫/pages/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/42_src_组件内路由守卫/pages/Detail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/42_src_组件内路由守卫/pages/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/42_src_组件内路由守卫/pages/Message.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/42_src_组件内路由守卫/pages/News.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/42_src_组件内路由守卫/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/43_src_history模式与hash模式/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/43_src_history模式与hash模式/components/Banner.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/43_src_history模式与hash模式/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/43_src_history模式与hash模式/pages/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/43_src_history模式与hash模式/pages/Detail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/43_src_history模式与hash模式/pages/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/43_src_history模式与hash模式/pages/Message.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/43_src_history模式与hash模式/pages/News.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/43_src_history模式与hash模式/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/44_src_element-ui组件库/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/44_src_element-ui组件库/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/public/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/src/components/Banner.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/src/pages/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/src/pages/Detail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/src/pages/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/src/pages/Message.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/src/pages/News.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cli/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/cli/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/cli/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cli/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/cli/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/cli/01_src_分析脚手架/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/cli/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/cli/vue.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cli" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://F:/blog/blog/source/_posts/Vue.md" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectId" id="2M3GX3hTRQqBwjrZgDulM7Csr9t" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/ws_workspace/cli&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ws_workspace\cli" />
+      <recent name="E:\ws_workspace\cli\src" />
+      <recent name="E:\ws_workspace\cli\src\components" />
+      <recent name="E:\ws_workspace\cli\22_插槽" />
+      <recent name="E:\ws_workspace\cli\22_插槽\1_src_默认插槽" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ws_workspace\cli\src\pages" />
+      <recent name="E:\ws_workspace\cli" />
+      <recent name="E:\ws_workspace\cli\public\css" />
+      <recent name="E:\ws_workspace\cli\src\assets\css" />
+      <recent name="E:\ws_workspace\cli\src\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.main.js">
+    <configuration name="数据绑定.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ws_workspace/03_数据绑定/数据绑定.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/cli/01_src_分析脚手架/main.js" working-dir="$PROJECT_DIR$/cli/01_src_分析脚手架">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.main.js" />
+        <item itemvalue="JavaScript 调试.数据绑定.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="888e64a7-f30b-4732-a56c-2552e463e1f3" name="变更" comment="" />
+      <created>1676988888743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676988888743</updated>
+      <workItem from="1676988894282" duration="8268000" />
+      <workItem from="1677058779754" duration="4497000" />
+      <workItem from="1677247890632" duration="1281000" />
+      <workItem from="1677290656297" duration="14750000" />
+      <workItem from="1677326988782" duration="6362000" />
+      <workItem from="1677338292959" duration="360000" />
+      <workItem from="1677338668544" duration="83000" />
+      <workItem from="1677338914886" duration="1889000" />
+      <workItem from="1677383800974" duration="608000" />
+      <workItem from="1677391036966" duration="1603000" />
+      <workItem from="1677410905538" duration="490000" />
+      <workItem from="1677411832140" duration="4526000" />
+      <workItem from="1677427920842" duration="2154000" />
+      <workItem from="1677467031200" duration="5204000" />
+      <workItem from="1677490334061" duration="6807000" />
+      <workItem from="1677499897755" duration="1427000" />
+      <workItem from="1677501774805" duration="360000" />
+      <workItem from="1677502213134" duration="457000" />
+      <workItem from="1677502682462" duration="29000" />
+      <workItem from="1677502719044" duration="8740000" />
+      <workItem from="1677546913094" duration="6781000" />
+      <workItem from="1677557356465" duration="1939000" />
+      <workItem from="1677559676415" duration="2007000" />
+      <workItem from="1677578334372" duration="3886000" />
+      <workItem from="1677593220200" duration="3426000" />
+      <workItem from="1677717857625" duration="8626000" />
+      <workItem from="1677739367734" duration="3487000" />
+      <workItem from="1677748605012" duration="1369000" />
+      <workItem from="1677762327994" duration="6596000" />
+      <workItem from="1677812812882" duration="3554000" />
+      <workItem from="1677832480068" duration="2323000" />
+      <workItem from="1677849990870" duration="9924000" />
+      <workItem from="1677980307178" duration="432000" />
+      <workItem from="1678091270014" duration="1414000" />
+      <workItem from="1678332219283" duration="2192000" />
+      <workItem from="1678339838073" duration="14036000" />
+      <workItem from="1678368227484" duration="3862000" />
+      <workItem from="1678372181508" duration="3155000" />
+      <workItem from="1678412167612" duration="8214000" />
+      <workItem from="1678438925471" duration="377000" />
+      <workItem from="1678444679682" duration="5896000" />
+      <workItem from="1678501158863" duration="14678000" />
+      <workItem from="1678536650053" duration="2744000" />
+      <workItem from="1678591641745" duration="987000" />
+      <workItem from="1678598604800" duration="2132000" />
+      <workItem from="1678673106017" duration="4521000" />
+      <workItem from="1678695163655" duration="6512000" />
+      <workItem from="1678758832946" duration="7005000" />
+      <workItem from="1678857614519" duration="931000" />
+      <workItem from="1679122585537" duration="6503000" />
+      <workItem from="1679195556249" duration="2103000" />
+      <workItem from="1679285482518" duration="7850000" />
+      <workItem from="1679362091477" duration="5098000" />
+      <workItem from="1679794480476" duration="2744000" />
+      <workItem from="1679919285062" duration="96000" />
+      <workItem from="1679921356931" duration="7551000" />
+      <workItem from="1679979538538" duration="10909000" />
+      <workItem from="1680057635585" duration="1159000" />
+      <workItem from="1680096418749" duration="4168000" />
+      <workItem from="1680481532175" duration="10404000" />
+      <workItem from="1683785278594" duration="393000" />
+      <workItem from="1694444672485" duration="5530000" />
+      <workItem from="1694482875188" duration="3419000" />
+      <workItem from="1694672012480" duration="8603000" />
+      <workItem from="1694759283353" duration="1778000" />
+      <workItem from="1695016765610" duration="10564000" />
+      <workItem from="1695092006195" duration="4805000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
